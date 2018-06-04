@@ -70,7 +70,7 @@
   <Class Name="监控系统中间层.RobotScara" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="2.25" Y="17" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACACA=</HashCode>
       <FileName>RobotScara.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -89,7 +89,7 @@
       <FileName>IMachineSiemens.cs</FileName>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="监控系统中间层.IPlcOmron">
+  <Interface Name="监控系统中间层.IPlcOmron" Collapsed="true">
     <Position X="7" Y="14.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAABABAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
@@ -99,7 +99,7 @@
   <Interface Name="监控系统中间层.IRobotScara" Collapsed="true">
     <Position X="7" Y="9.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAABABAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IRobotScara.cs</FileName>
     </TypeIdentifier>
   </Interface>
