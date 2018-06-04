@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Omron>
+  <DataItem address="1">
+    <content>报警开关</content>
+    <type>bool</type>
+  </DataItem>
+  <DataItem address="2">
+    <content>红灯</content>
+    <type>int</type>
+  </DataItem>
+  <DataItem address="3">
+    <content>安全门</content>
+    <type>string</type>
+  </DataItem>
+</Omron>

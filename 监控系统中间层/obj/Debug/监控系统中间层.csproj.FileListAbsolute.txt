@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\监控系统中间层\监控系统中间层\bin\Debug\监控系统中间层.exe.config
+C:\Users\Administrator\Desktop\监控系统中间层\监控系统中间层\bin\Debug\监控系统中间层.exe
+C:\Users\Administrator\Desktop\监控系统中间层\监控系统中间层\bin\Debug\监控系统中间层.pdb
+C:\Users\Administrator\Desktop\监控系统中间层\监控系统中间层\obj\Debug\监控系统中间层.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\监控系统中间层\监控系统中间层\obj\Debug\监控系统中间层.exe
+C:\Users\Administrator\Desktop\监控系统中间层\监控系统中间层\obj\Debug\监控系统中间层.pdb
+F:\朱文丹\我的\互联互通\监控系统中间层\监控系统中间层\bin\Debug\监控系统中间层.exe.config
+F:\朱文丹\我的\互联互通\监控系统中间层\监控系统中间层\obj\Debug\监控系统中间层.exe
+F:\朱文丹\我的\互联互通\监控系统中间层\监控系统中间层\obj\Debug\监控系统中间层.pdb
+F:\朱文丹\我的\互联互通\监控系统中间层\监控系统中间层\bin\Debug\监控系统中间层.exe
+F:\朱文丹\我的\互联互通\监控系统中间层\监控系统中间层\bin\Debug\监控系统中间层.pdb
+F:\朱文丹\我的\互联互通\监控系统中间层\监控系统中间层\obj\Debug\监控系统中间层.csprojResolveAssemblyReference.cache
